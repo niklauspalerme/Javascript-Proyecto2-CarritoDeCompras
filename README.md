@@ -13,4 +13,5 @@ Usa la memoria local del browser (**localStorage**) para poder guardarla informa
 - HTML5
 - CSS3
 - Javasacript
+- [Boostrap 4 CDN](https://getbootstrap.com/)
 - [Pushbar.js](https://github.com/oncebot/pushbar.js) (Para poder desplegar la barra de manera dinamica)
