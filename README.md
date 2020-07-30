@@ -6,6 +6,8 @@ Aparte posee una opcion llamada **"Carrito"** en el navbar donde puedes ver todo
 
 Usa la memoria local del browser (**localStorage**) para poder guardarla información del carrito
 
+![](img/asset.png)
+
 # Tecnologia usada
 
 - HTML5
